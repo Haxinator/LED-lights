@@ -1,3 +1,9 @@
+# Reactive LEDs
+This code aims to create reactive LEDs for the ESP32 which can be controlled via a phone or webpage. This is done using [![Blynk](https://blynk.io/)] and [![this open source code](https://github.com/s-marley/Uno_vu_line)].
+
+
+Most of the code was shamelessly ripped from open source code. The description of which can be found below.
+
 # UnoVULine
 Code written to run on the Arduino Nano or Uno to drive LED strips such as WS2812B as a stereo VU meter.
 
